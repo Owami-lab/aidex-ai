@@ -3,7 +3,7 @@
 > **Work smarter, not harder.** A suite of AI-powered tools to automate the writing, planning, and research that drains your day.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-aidex--ai.lovable.app-blue?style=for-the-badge&logo=globe)](https://aidex-ai.lovable.app)
-[![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-ff69b4?style=for-the-badge)](https://lovable.dev)
+
 
 ---
 
